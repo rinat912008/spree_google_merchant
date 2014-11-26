@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aaa0d8b8-3c6e-43a6-a2ab-b9445f1703e9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spree_google_merchant.gemspec" afterPath="$PROJECT_DIR$/spree_google_merchant.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spree_google_merchant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="spree_google_merchant.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spree_google_merchant.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66997516" vertical-offset="54" max-vertical-offset="540">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.66997516" vertical-offset="54" max-vertical-offset="522">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -330,8 +329,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spree_google_merchant.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66997516" vertical-offset="54" max-vertical-offset="540">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.66997516" vertical-offset="54" max-vertical-offset="522">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
